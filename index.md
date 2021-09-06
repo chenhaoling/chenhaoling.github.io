@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+# Resume
+![证件照](https://user-images.githubusercontent.com/41502959/132244773-93ee754f-7175-4556-aabf-77154953f55d.jpg)
 
-You can use the [editor on GitHub](https://github.com/chenhaoling/chenhaoling.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact：
+          **Phone**:+86 15647708518
+               +852 60478532
+          **Email**:chentaijie98@gmail.com
+                    ctj21@connect.hku.hk
+                    
+## Education
+            
+            - BEng in Software Engineering(2017-2021) 
+                                    Nankai University
+                                    
+            - MSc in Computer Science(2021-Now) 
+                           The University of HongKong
 
 ### Markdown
 
