@@ -16,4 +16,12 @@ I am currently a MSc student in the Department of Computer Science at the Univer
 
 
 
+Education
+======
+
+* B.Eng. in Software Engineering, Nankai University, 2021
+* M.S. in Computer Science, the University of Hong Kong(expected)
+
+
+
 
