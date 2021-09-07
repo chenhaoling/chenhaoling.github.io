@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "CHEN TAIJIE"
   avatar           : "profile.png"
-  # bio              : "B.Eng. in Software Engineering,\n\t(2017-2021) Nankai University\nM.Sc. in Computer Science,2021-Now\n\t The University of Hong Kong"
-  bio             :  "B.Eng. in Software Engineering"
-  bio1            :  "Nankai University"
+  bio              : "B.Eng. in Software Engineering,\\n\\t(2017-2021) Nankai University\\nM.Sc. in Computer Science,2021-Now\\n\\t The University of Hong Kong"
+  # bio             :  "B.Eng. in Software Engineering"
+  # bio1            :  "Nankai University"
  location         : "Hong Kong"
   # links:
   # - label: "CV"
