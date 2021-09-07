@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: "About me"
+Excerpt: "Education"
 author_profile: true
 redirect_from: 
   - /about/
